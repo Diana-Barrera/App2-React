@@ -58,7 +58,7 @@ code {
   margin-top: 1px;
   text-align: center;
   color:black;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Arial', Times, serif;
 }
 .product_footer p{
   margin-top: 1px;
@@ -68,7 +68,7 @@ code {
   font-size: 10px;
   text-align: center;
   color:rgba(0, 0, 0, 0.616);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Arial', Times, serif;
 }
 .product_footer .price{
   font-size: 2rem;
