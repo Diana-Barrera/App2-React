@@ -5,7 +5,7 @@ export default class NavBar extends React.Component {
     return(
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Link className="navbar-brand" to="/">
-          MegaComputo
+          NavBar
         </Link>
         <button
           className="navbar-toggler"
